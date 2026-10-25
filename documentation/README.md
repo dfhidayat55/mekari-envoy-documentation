@@ -4,7 +4,7 @@ Mekari Envoy is Mekari's AI workspace. You chat with an AI assistant, get files 
 
 The built-in assistant is called **Airene**. You can also chat with **agents**: helpers your team has set up for a specific job, with their own instructions, knowledge and connected apps.
 
-This guide set has one guide per feature. Start with **[Getting started](guides/getting-started.md) Getting started**, then open the guide for the feature you want to use.
+This guide set has one guide per feature. Start with **[Getting started](guides/getting-started.md)**, then open the guide for the feature you want to use.
 
 ## Find your way around
 
