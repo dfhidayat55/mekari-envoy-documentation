@@ -3,9 +3,10 @@ site:
   title: Mekari Envoy Docs
   structure:
     - type: space
-      key: envoy-user-guide
+      key: documentation
       title: User Guide
       path: user-guide
+      default: true
       content:
-        directory: ./docs
+        directory: ./documentation
         language: en
