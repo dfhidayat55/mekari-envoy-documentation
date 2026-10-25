@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Mekari Envoy Docs
+  structure:
+    - type: space
+      key: envoy-user-guide
+      title: User Guide
+      path: user-guide
+      content:
+        directory: ./docs
+        language: en
